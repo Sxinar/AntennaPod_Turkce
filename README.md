@@ -26,12 +26,14 @@ AntennaPod has many users and we don't want them to run into trouble when we add
 
 AntennaPod is licensed under the GNU General Public License (GPL-3.0). You can find the license text in the LICENSE file.
 
-## Translating AntennaPod
+## AntennaPod için çeviri ()
 
-If you want to translate AntennaPod into another language, you can visit the [Transifex project page](https://www.transifex.com/antennapod/antennapod/).
+Benim gibi AntennaPod çevirisine destek sunmak isterseniz (WEB çevirisi)
+%56 çevirme oranina sahibim.
+[Transifex proje sayfası](https://www.transifex.com/antennapod/antennapod/).
 
 
-## Building AntennaPod
+##  AntennaPod'u İnşa etmek
 
 You can build AntennaPod just like any other Android project. Refer to the [instructions](https://github.com/AntennaPod/AntennaPod/blob/develop/CONTRIBUTING.md) for more details.
 
