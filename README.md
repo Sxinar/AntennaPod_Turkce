@@ -1,44 +1,43 @@
 # AntennaPod
 
-[![GitHub check runs](https://img.shields.io/github/check-runs/AntennaPod/AntennaPod/develop)](https://github.com/AntennaPod/AntennaPod/actions/workflows/checks.yml?query=branch%3Adevelop)
-[![License: GPL v3](https://img.shields.io/github/license/AntennaPod/AntennaPod)](https://www.gnu.org/licenses/gpl-3.0)
-[![GitHub Release](https://img.shields.io/github/v/release/AntennaPod/AntennaPod)](https://github.com/AntennaPod/AntennaPod/releases)
+[![GitHub kontrol çalıştırmaları](https://img.shields.io/github/check-runs/AntennaPod/AntennaPod/develop)](https://github.com/AntennaPod/AntennaPod/actions/workflows/checks.yml?query=branch%3Adevelop)
+[![Lisans: GPL v3](https://img.shields.io/github/license/AntennaPod/AntennaPod)](https://www.gnu.org/licenses/gpl-3.0)
+[![GitHub Sürümü](https://img.shields.io/github/v/release/AntennaPod/AntennaPod)](https://github.com/AntennaPod/AntennaPod/releases)
 [![https://img.shields.io/github/commits-since/AntennaPod/AntennaPod/latest/develop](https://img.shields.io/github/commits-since/AntennaPod/AntennaPod/latest/develop)](https://github.com/AntennaPod/AntennaPod/commits/develop/)
-[![Translations on Weblate](https://hosted.weblate.org/widget/antennapod/app/svg-badge.svg?native=1)](https://hosted.weblate.org/engage/antennapod/)
-[![Good first issue](https://img.shields.io/github/issues-search?query=repo%3AAntennaPod%2FAntennaPod%20is%3Aopen%20is%3Aissue%20label%3A%22Good%20first%20issue%22&label=Good%20first%20issue&labelColor=grey&color=%235F1984)](https://github.com/AntennaPod/AntennaPod/labels/Good%20first%20issue)
+[![Weblate üzerinde çeviriler](https://hosted.weblate.org/widget/antennapod/app/svg-badge.svg?native=1)](https://hosted.weblate.org/engage/antennapod/)
+[![Yeni başlayanlar için uygun konu](https://img.shields.io/github/issues-search?query=repo%3AAntennaPod%2FAntennaPod%20is%3Aopen%20is%3Aissue%20label%3A%22Good%20first%20issue%22&label=Good%20first%20issue&labelColor=grey&color=%235F1984)](https://github.com/AntennaPod/AntennaPod/labels/Good%20first%20issue)
 
-This is the official repository of AntennaPod, the easy-to-use, flexible and open-source podcast manager for Android.
+Bu, Android için kullanımı kolay, esnek ve açık kaynaklı podcast yöneticisi AntennaPod’un resmi deposudur.
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png"
-      alt="Get it on Google Play"
-      height="70">](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
+alt="Google Play'den edinin"
+height="70">](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-      alt="Get it on F-Droid"
-      height="70">](https://f-droid.org/app/de.danoeh.antennapod)
+alt="F-Droid'dan edinin"
+height="70">](https://f-droid.org/app/de.danoeh.antennapod)
 
-<img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/00.png" alt="Screenshot 0" height="200"> <img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/01.png" alt="Screenshot 1" height="200"> <img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/02.png" alt="Screenshot 2" height="200"> <img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/03.png" alt="Screenshot 3" height="200"> <img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/04.png" alt="Screenshot 4" height="200"> <img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/05.png" alt="Screenshot 5" height="200">
+<img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/00.png" alt="Ekran Görüntüsü 0" height="200"> <img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/01.png" alt="Ekran Görüntüsü 1" height="200"> <img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/02.png" alt="Ekran Görüntüsü 2" height="200"> <img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/03.png" alt="Ekran Görüntüsü 3" height="200"> <img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/04.png" alt="Ekran Görüntüsü 4" height="200"> <img src="https://raw.githubusercontent.com/AntennaPod/StoreMetadata/main/listings/en-US/graphics/phone-screenshots/05.png" alt="Ekran Görüntüsü 5" height="200">
 
+## Geri Bildirim
 
-## Feedback
-You can use the [AntennaPod Forum](https://forum.antennapod.org/) for discussions about the app or just podcasting in general.
+Uygulama hakkında veya genel olarak podcast yayıncılığıyla ilgili tartışmalar için [AntennaPod Forumunu](https://forum.antennapod.org/) kullanabilirsiniz.
 
-Bug reports and feature requests can be submitted [here](https://github.com/AntennaPod/AntennaPod/issues) (please read the [instructions](https://github.com/AntennaPod/AntennaPod/blob/develop/CONTRIBUTING.md) on how to report a bug and how to submit a feature request first!).
+Hata raporları ve özellik istekleri [buradan](https://github.com/AntennaPod/AntennaPod/issues) gönderilebilir (lütfen önce bir hatanın nasıl bildirileceği ve bir özellik isteğinin nasıl gönderileceği hakkında [talimatları](https://github.com/AntennaPod/AntennaPod/blob/develop/CONTRIBUTING.md) okuyun!).
 
-We also hold regular community calls to discuss anything AntennaPod-related. [Come join the next call](https://forum.antennapod.org/t/monthly-community-call/1869)!
+Ayrıca AntennaPod ile ilgili her şeyi tartışmak için düzenli topluluk toplantıları düzenliyoruz. [Bir sonraki toplantıya katılın](https://forum.antennapod.org/t/monthly-community-call/1869)!
 
-## Help to test AntennaPod
-AntennaPod has many users and we don't want them to run into trouble when we add a new feature. It's important that we have a significant group test our app, so that we know all possible combinations of phones, Android versions and use cases work as expected. Check out our wiki on how to join our [Beta testing program](https://antennapod.org/documentation/general/beta)! If a bug is reported during the beta period, chances are high that it will be fixed before the stable version. If it is reported later, fixing might take another full beta cycle. So definitely let us know if something is not right.
+## AntennaPod’u test etmeye yardımcı olun
 
-## License
+AntennaPod’un birçok kullanıcısı var ve yeni bir özellik eklediğimizde sorun yaşamalarını istemiyoruz. Uygulamamızın önemli bir grup tarafından test edilmesi, farklı telefon, Android sürümü ve kullanım senaryosu kombinasyonlarının beklendiği gibi çalıştığından emin olmamız açısından önemlidir. [Beta test programımıza](https://antennapod.org/documentation/general/beta) nasıl katılacağınızı öğrenmek için wiki sayfamıza göz atın! Eğer bir hata beta sürecinde bildirilirse, kararlı sürümden önce düzeltilme ihtimali yüksektir. Daha sonra bildirilirse, düzeltilmesi bir tam beta döngüsü daha sürebilir. Bu nedenle bir şeylerin doğru olmadığını fark ederseniz mutlaka bize bildirin.
 
-AntennaPod is licensed under the GNU General Public License (GPL-3.0). You can find the license text in the LICENSE file.
+## Lisans
 
-## Translating AntennaPod
+AntennaPod, GNU Genel Kamu Lisansı (GPL-3.0) altında lisanslanmıştır. Lisans metnini LICENSE dosyasında bulabilirsiniz.
 
-If you want to translate AntennaPod into another language, you can visit our [Weblate page](https://hosted.weblate.org/projects/antennapod/).
+## AntennaPod’u Çevirme
 
+AntennaPod’u başka bir dile çevirmek istiyorsanız, [Weblate sayfamızı](https://hosted.weblate.org/projects/antennapod/) ziyaret edebilirsiniz.
 
-## Building AntennaPod
+## AntennaPod’u Derleme
 
-You can build AntennaPod just like any other Android project. Refer to the [instructions](https://github.com/AntennaPod/AntennaPod/blob/develop/CONTRIBUTING.md) for more details.
-
+AntennaPod’u diğer Android projeleri gibi derleyebilirsiniz. Daha fazla ayrıntı için [talimatlara](https://github.com/AntennaPod/AntennaPod/blob/develop/CONTRIBUTING.md) bakın.
